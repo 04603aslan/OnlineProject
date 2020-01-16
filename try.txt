@@ -1,3 +1,4 @@
 
 "window.defaultToZenMode": true,
 "Merhaba Dosyam"
+cout<<;
